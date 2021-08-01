@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CPP
-- 🌱 I’m currently learning CPP
+- 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Learning DSA
 - 🤔 I’m looking for help with DSA
 <!-- - 💬 Ask me about ... -->
