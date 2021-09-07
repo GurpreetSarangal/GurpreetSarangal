@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-<h3>Hi, I am Gurpreet </h3>
+<!-- <h3>Hi, I am Gurpreet </h3> -->
 
-<!-- ![Hi there 👋](https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif) -->
+![Hi there 👋](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 
 <!-- **GurpreetSaranagal/GurpreetSaranagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
