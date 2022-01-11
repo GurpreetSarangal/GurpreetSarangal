@@ -6,13 +6,24 @@
 
 <!-- **GurpreetSaranagal/GurpreetSaranagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-About me
+<!-- About me -->
 
--  I’m currently working on CPP and Python
+```cpp
+if(brain!=empty)
+{
+    keepCoding();
+}
+else
+{
+    makeChaa();
+}
+```
+
+<!-- -  I’m currently working on CPP and Python
 -  I’m currently learning DSA and Python
 -  I’m looking to collaborate on learning new technologies
-- In case you want to reach me
-[Instagram](https://www.instagram.com/officialsarangral/),
+- In case you want to reach me -->
+[My Instagram](https://www.instagram.com/officialsarangral/), and  
 [linkedin](https://www.linkedin.com/in/gurpreet-sarangal-b92525219/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
