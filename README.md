@@ -9,5 +9,5 @@
 
 ### Contact with me
 
-[![](https://icongr.am/entypo/instagram.svg?size=51&color=383838)](https://www.instagram.com/officialsarangral/) 
+[![](https://icongr.am/entypo/instagram.svg?size=51&color=383838)](https://www.instagram.com/officialsarangal/) 
 [![](https://icongr.am/entypo/linkedin.svg?size=51&color=383838)](https://www.linkedin.com/in/gurpreet-sarangal-b92525219/)
