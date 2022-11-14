@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GurpreetSarangal&count_private=true&theme=aura&show_icons=true&hide_border=true&hide=stars,issues">
 
 - 🔭 I'am currently working on a project with Web Scraping and Django.
-- 🌱 I'am currently a BCA 2nd year student at DAV College, Amritsar.
+- 🌱 I'am currently a BCA final year student at DAV College, Amritsar.
 - 👯 I'am looking to colaborate on web-dev projects.
 - 🤔 I'am looking for help with ![JavaScript](https://icongr.am/devicon/javascript-plain.svg?size=22&color=657795).
 - 💬 Ask me about C++.
