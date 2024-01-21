@@ -4,7 +4,7 @@
 
 - 🔭 I'am currently working on a project with Computer Vision and Webdev.
 - 🌱 I'am currently an MCA student at GNDU, Amritsar.
-- 👯 I'am looking to colaborate on anything intersting.
+- 👯 I'am looking to colaborate on anything interesting.
 - 🤔 I'am looking for help with ![JavaScript](https://icongr.am/devicon/javascript-plain.svg?size=22&color=657795).
 - 💬 Ask me about C++.
 - ⚡ Fun fact: I'm fascinated about Planets, Stars, Galaxies, Black-Holes, etc etc.
