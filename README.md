@@ -1,6 +1,6 @@
 # I'm a MCA student, a budding full-stack dev and a tech enthusiast!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GurpreetSarangal&count_private=true&theme=aura&show_icons=true&hide_border=true&hide=stars,issues">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=GurpreetSarangal&count_private=true&theme=aura&show_icons=true&hide_border=true&hide=stars,issues"> -->
 
 - 🔭 I'am currently working on a project with Computer Vision and Webdev.
 - 🌱 I'am currently an MCA student at GNDU, Amritsar.
